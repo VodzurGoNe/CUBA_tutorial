@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CubaProjectState">
+    <option name="hasState" value="true" />
+    <option name="cubaModelState">
+      <CubaModelState>
+        <option name="repositories">
+          <list>
+            <RepositoryModelState>
+              <option name="url" value="https://repo.cuba-platform.com/content/groups/work" />
+              <option name="user" value="cuba" />
+              <option name="pass" value="3r6+CXYTcUs=" />
+              <option name="stateVersion" value="2" />
+            </RepositoryModelState>
+          </list>
+        </option>
+        <option name="appComponents">
+          <list>
+            <DependencyModelState>
+              <option name="group" value="com.haulmont.cuba" />
+              <option name="name" value="cuba-global" />
+              <option name="version" value="7.2.13" />
+            </DependencyModelState>
+            <DependencyModelState>
+              <option name="group" value="com.haulmont.addon.helium" />
+              <option name="name" value="helium-global" />
+              <option name="version" value="0.3.1" />
+            </DependencyModelState>
+          </list>
+        </option>
+        <option name="artifactGroup" value="com.company.planner" />
+        <option name="artifactVersion" value="0.1" />
+        <option name="artifactSnapshot" value="true" />
+        <option name="tomcatDir" value="C:\Users\LightingSoul\IdeaProjects\Session_Planer_CUBA_tutorial\SessionPlanner/deploy/tomcat" />
+        <option name="gradleVersion" value="5.6.4" />
+        <option name="oracleSystemCredentials">
+          <map>
+            <entry key="_MAIN_">
+              <value>
+                <OracleSystemCredentialsModelState>
+                  <option name="systemUser" value="system" />
+                  <option name="systemPassword" value="manager" />
+                </OracleSystemCredentialsModelState>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="gradlePluginJarPath" value="C:\Users\LightingSoul\.gradle\caches\modules-2\files-2.1\com.haulmont.gradle\cuba-plugin\7.2.13\4cc3123f599e8ff1fa46ff63e295eaf9898f5688\cuba-plugin-7.2.13.jar" />
+        <option name="projectPath" value="C:\Users\LightingSoul\IdeaProjects\Session_Planer_CUBA_tutorial\SessionPlanner" />
+      </CubaModelState>
+    </option>
+    <option name="dbArtifacts">
+      <map>
+        <entry key="com.haulmont.addon.helium" value="C:\Users\LightingSoul\.gradle\caches\modules-2\files-2.1\com.haulmont.addon.helium\helium-core\0.3.1\f32f01124ca5740d61806e5892373e14449bf48e\helium-core-0.3.1-db.zip" />
+        <entry key="com.haulmont.cuba" value="C:\Users\LightingSoul\.gradle\caches\modules-2\files-2.1\com.haulmont.cuba\cuba-core\7.2.13\b71594dd020c6cd3daee3139ef8b140984de5ad1\cuba-core-7.2.13-db.zip" />
+      </map>
+    </option>
+    <option name="gradleFilesCRC" value="3238459201" />
+  </component>
+</project>
