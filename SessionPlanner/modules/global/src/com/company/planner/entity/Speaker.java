@@ -37,7 +37,7 @@ public class Speaker extends StandardEntity {
         return lastName;
     }
 
-    public void setLastName(java.lang.String lastName) {
+    public void setLastName(String lastName) {
         this.lastName = lastName;
     }
 
