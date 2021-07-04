@@ -1,3 +1,7 @@
 # Default ignored files
+SessionPlanner/deploy/hsqldb/planner-325351/planner-325351.lck
+SessionPlanner/deploy/hsqldb/planner-325351/planner-325351.log
 /shelf/
 /workspace.xml
+
+
