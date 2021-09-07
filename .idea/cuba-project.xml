@@ -28,6 +28,7 @@
             </DependencyModelState>
           </list>
         </option>
+        <option name="mavenLocal" value="true" />
         <option name="artifactGroup" value="com.company.planner" />
         <option name="artifactVersion" value="0.1" />
         <option name="artifactSnapshot" value="true" />
